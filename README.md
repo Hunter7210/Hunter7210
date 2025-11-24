@@ -36,7 +36,7 @@
     </td>
     <td width="50%" valign="center">
       <div align="center">
-       <img src="./image_centered.png" width="100%" />
+       <img src="./image_centered-min.png" width="100%" alt="" style="height: auto;" />
       </div>
     </td>
   </tr>
