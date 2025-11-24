@@ -36,7 +36,7 @@
     </td>
     <td width="50%" valign="center">
       <div align="center">
-       <img src="https://github-readme-stats.vercel.app/api?username=Hunter7210&show_icons=true&theme=tokyonight" />
+       <img src="./image_centered.png" width="100%" />
       </div>
     </td>
   </tr>
@@ -127,12 +127,14 @@ Organizado conforme minhas competências em desenvolvimento e análise de dados.
 
 <div align="center">
 
-  <h3>📊 Minhas Estatísticas</h3>
+<h3>📊 Minhas Estatísticas</h3>
 
-  <div style="display: inline_block">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hunter7210&show_icons=true&theme=tokyonight&hide_border=true" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hunter7210&layout=compact&theme=tokyonight&hide_border=true" />
-  </div>
+<div style="display: inline_block">
+  <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api?username=Hunter7210&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&title_color=2094F7&icon_color=2094F7" />
+  
+ <!-- <img height="170" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Hunter7210&layout=compact&theme=tokyonight&langs_count=6&hide_border=true&title_color=2094F7" />-->
+</div>
+
   
 </div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hunter7210&bg_color=1a1b27&color=2094F7&line=2094F7&point=ffffff&area=true&hide_border=true" />
