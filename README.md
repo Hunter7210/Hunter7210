@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/heitorrodrigodemelosilva/" target="_blank">
+  <a href="https://www.linkedin.com/in/heitor-melo-a84b05248/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="mailto:heitorrmsilva@gmail.com">
