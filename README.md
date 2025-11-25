@@ -48,7 +48,7 @@
 
 ## 🛠️ Arsenal Tecnológico
 
-Organizado conforme minhas competências em desenvolvimento e análise de dados.
+<!--Organizado conforme minhas competências em desenvolvimento e análise de dados.-->
 
 #### 💻 Linguagens
 
